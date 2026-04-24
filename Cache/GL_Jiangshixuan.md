@@ -122,7 +122,7 @@
 
 林子欣站起来用一口流利的英语——甚至说是正宗的英式发音——帮我解决了问题。
 
-“Well down.You pronunciation is very clear and extraordinary！”
+“Well done. You pronunciation is very clear and extraordinary！”
 
 “林大小姐果然不一样啊，好标准的英格利希（English，英语）！”
 
