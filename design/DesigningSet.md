@@ -18,12 +18,14 @@
 
 **支线（Side story）** 主要讲述重要人物的故事。多为幕后或背景故事。
 
-### 主要故事线图
+
+
+### 主要故事线简图
 
 ```mermaid
 flowchart LR
     %% ===== 结局样式 =====
-    classDef ending fill:#666,stroke:#f00,stroke-width:2px
+    classDef ending fill:#555,stroke:#f00,stroke-width:2px
 
     %% ===== 序章与前期抉择 =====
     M1[开学] --> M2[正常校园生活] --> M3[第一次月考]
@@ -42,7 +44,7 @@ flowchart LR
     TLBEPre --> TLBE
 
     %% ===== 主线行动失败（坏结局） =====
-    TL2 --> TLBE[行动失败<br><b>坏结局</b>]:::ending
+    TL2 -->|单次行动失败| TLBE[行动失败<br><b>坏结局</b>]:::ending
 
     %% ===== 感情线分支（平行时空） =====
     subgraph GL[感情线分支]
